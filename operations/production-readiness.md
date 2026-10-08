@@ -2,7 +2,7 @@
 
 Before a production deployment:
 
-- replace all development stores and simulated event sources with PostgreSQL and Stellar RPC;
+- verify the Neon PostgreSQL connection, migration history, and Soroban RPC indexer checkpoint before each release;
 - require explicit mainnet configuration and an agreement-contract allowlist;
 - confirm transactions from RPC before presenting success;
 - apply schema migrations, backups, retention, and restore tests;
@@ -10,4 +10,4 @@ Before a production deployment:
 - monitor API health, indexer lag, failed transactions, and database saturation;
 - complete an independent contract security review and rehearse rollback procedures.
 
-The tagged `v0.1.0` release is a testnet submission release, not a mainnet security certification.
+The tagged `v0.1.1` release is a Testnet submission candidate, not a mainnet security certification.
