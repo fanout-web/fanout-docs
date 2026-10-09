@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Fanout Docs
+  structure:
+    - type: space
+      key: fanout-documentation
+      title: Fanout Documentation
+      path: docs
+      default: true
+      content:
+        directory: ./
