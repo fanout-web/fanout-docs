@@ -43,6 +43,7 @@ Instead of collecting revenue in a shared wallet and reconciling payouts manuall
 ## Live Testnet deployment
 
 - **Application:** [fanout-labs.vercel.app](https://fanout-labs.vercel.app)
+- **API health:** [fanout-labs.vercel.app/api/health](https://fanout-labs.vercel.app/api/health)
 - **Network:** Stellar Testnet
 - **Contract:** [`CCAK6YBIECDQ2GFPMYLV3GWQPJN2DVGJGDHKY76ESZHI56DZMELSTPRV`](https://stellar.expert/explorer/testnet/contract/CCAK6YBIECDQ2GFPMYLV3GWQPJN2DVGJGDHKY76ESZHI56DZMELSTPRV)
 - **Verified payment:** [`77e0a9b…a04c`](https://stellar.expert/explorer/testnet/tx/77e0a9b12362f48a2bdddaec9865aea82b36ab2116b777c892bf8beca3ada04c)
@@ -52,6 +53,8 @@ Instead of collecting revenue in a shared wallet and reconciling payouts manuall
 - [fanout-app](https://github.com/fanout-web/fanout-app) — Next.js web app, Express API, TypeScript SDK, database adapter, and event indexer.
 - [fanout-contracts](https://github.com/fanout-web/fanout-contracts) — Soroban agreement contract, tests, deployment artifacts, and security documentation.
 - [fanout-docs](https://github.com/fanout-web/fanout-docs) — this documentation and its GitBook configuration.
+
+See [Deployment Status](operations/deployment-status.md) for the verified Vercel, API, database, Render worker, contract, and GitBook/GitHub Pages configuration. Use the [Submission Demo](operations/submission-demo.md) runbook before applying to Drips.
 
 ## Security boundary
 
