@@ -1,5 +1,7 @@
 # Summary
 
+* [Fanout](README.md)
+
 * [Introduction](introduction/what-is-fanout.md)
   * [What is Fanout](introduction/what-is-fanout.md)
   * [The Problem](introduction/the-problem.md)
