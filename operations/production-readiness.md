@@ -11,3 +11,5 @@ Before a production deployment:
 - complete an independent contract security review and rehearse rollback procedures.
 
 The tagged `v0.1.1` release is a Testnet submission candidate, not a mainnet security certification.
+
+For the currently verified public endpoints, hosting responsibilities, and environment settings, see [Deployment Status](deployment-status.md). Use the [Submission Demo](submission-demo.md) runbook for the required end-to-end recording.

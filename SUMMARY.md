@@ -38,6 +38,8 @@
 
 * [Operations](operations/production-readiness.md)
   * [Production Readiness](operations/production-readiness.md)
+  * [Deployment Status](operations/deployment-status.md)
+  * [Submission Demo](operations/submission-demo.md)
   * [Security Model](operations/security.md)
 
 * [Contributing](contributing/how-to-contribute.md)
